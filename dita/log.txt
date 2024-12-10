@@ -1,0 +1,232 @@
+Searching for integrator.xml ...
+
+integrate:
+
+configuration-jar:
+      [jar] Building jar: /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/lib/dost-configuration.jar
+integrator-complete
+
+init:
+
+init-properties:
+
+check-arg:
+    [mkdir] Created dir: /tmp/temp20241210020521129
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4
+     [echo] * dita.dir = /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4
+     [echo] * transtype = dita
+     [echo] * tempdir = /tmp/temp20241210020521129
+     [echo] * outputdir = /opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.4.0
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Tue Dec 10 02:05:21 UTC 2024
+     [echo] args.copycss=yes
+     [echo] args.grammar.cache=yes
+     [echo] args.input=/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/document.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4
+     [echo] dita.extname=dita
+     [echo] dita.output.dir=/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.org.dita.base.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.html5.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.html5
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.htmlhelp
+     [echo] dita.plugin.org.dita.index.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.index
+     [echo] dita.plugin.org.dita.normalize.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.pdf2.axf
+     [echo] dita.plugin.org.dita.pdf2.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.pdf2.fop
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.dita.xhtml.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.lwdita.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.plugin.org.oasis.spec.pdf.dir=/opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.oasis.spec.pdf
+     [echo] dita.temp.dir=/tmp/temp20241210020521129
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/document.ditamap
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/document.ditamap
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/index.dita
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Cabo.dita
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/PKs.dita
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Greens.dita
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/622_North.dita
+ [gen-list] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Zeppolis.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/index.dita to file:/tmp/temp20241210020521129/index.dita
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/622_North.dita to file:/tmp/temp20241210020521129/622_North.dita
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/document.ditamap to file:/tmp/temp20241210020521129/document.ditamap
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Zeppolis.dita to file:/tmp/temp20241210020521129/Zeppolis.dita
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Greens.dita to file:/tmp/temp20241210020521129/Greens.dita
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/Cabo.dita to file:/tmp/temp20241210020521129/Cabo.dita
+   [filter] Processing file:/opt/publishing-processors/temp_publish_store/pub-1475601542/db/organizations/vt/repositories/master/content/documents/Fall2024/lucyl/Guide_to_Best_BBurg/PKs.dita to file:/tmp/temp20241210020521129/PKs.dita
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/canditopics.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/conref.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/conreftargets.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/copytosource.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditamap.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditamapandtopic.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditatopic.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/hrefditatopic.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/hreftargets.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/html.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/image.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/outditafiles.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/resourceonly.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/resourceonly.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/subjectscheme.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/subtargets.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/user.input.file.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/tmp/temp20241210020521129/document.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/tmp/temp20241210020521129/document.ditamap
+
+keyref:
+   [mapref] Transforming into /tmp/temp20241210020521129
+   [mapref] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing /tmp/temp20241210020521129/document.ditamap
+
+copy-to:
+
+conrefpush:
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/conref.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+
+conref-check:
+
+conref:
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/tmp/temp20241210020521129/index.dita
+[topic-fragment] Processing file:/tmp/temp20241210020521129/622_North.dita
+[topic-fragment] Processing file:/tmp/temp20241210020521129/Zeppolis.dita
+[topic-fragment] Processing file:/tmp/temp20241210020521129/Greens.dita
+[topic-fragment] Processing file:/tmp/temp20241210020521129/Cabo.dita
+[topic-fragment] Processing file:/tmp/temp20241210020521129/PKs.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/tmp/temp20241210020521129/document.ditamap
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditatopic.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditamap.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/fullditamapandtopic.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/resourceonly.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+[job-helper] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/copytosource.list
+[job-helper] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/job-helper.xsl
+
+move-meta-entries:
+[move-meta] Processing file:/tmp/temp20241210020521129/document.ditamap
+[move-meta] Processing file:/tmp/temp20241210020521129/document.ditamap
+[move-meta] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+
+maplink-check:
+
+maplink:
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /tmp/temp20241210020521129
+[topicpull] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing /tmp/temp20241210020521129/index.dita
+[topicpull] Processing /tmp/temp20241210020521129/622_North.dita
+[topicpull] Processing /tmp/temp20241210020521129/Zeppolis.dita
+[topicpull] Processing /tmp/temp20241210020521129/Greens.dita
+[topicpull] Processing /tmp/temp20241210020521129/Cabo.dita
+[topicpull] Processing /tmp/temp20241210020521129/PKs.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /tmp/temp20241210020521129
+[clean-map] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing /tmp/temp20241210020521129/document.ditamap
+
+copy-image:
+     [copy] Copying 6 files to /opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files:
+
+preprocess:
+
+dita2dita:
+[normalize] Processing /tmp/temp20241210020521129/.job.xml to /tmp/temp20241210020521129/.job.xml.temp
+[normalize] Loading stylesheet /opt/publishing-processors/vt/dita-open-toolkits/dita-ot-3.4/plugins/org.dita.normalize/xsl/normalize.xsl
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/index.dita
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/622_North.dita
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/document.ditamap
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/Zeppolis.dita
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/Greens.dita
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/Cabo.dita
+[normalize] file:/opt/publishing-processors/temp_publish_store/pub-1475601542/jmc_publish_document/plainhtml-1/PKs.dita
+   [delete] Deleting: /tmp/temp20241210020521129/.job.xml.temp
+
+clean-temp:
+Processing ended.
+Fatals Reported By TK :: 0
+Errors Reported By TK :: 0
+Errors Found :: 0
+Possible Java Exceptions Found :: 0
+Warnings Found :: 0
